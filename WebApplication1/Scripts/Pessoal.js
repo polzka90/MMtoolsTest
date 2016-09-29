@@ -1,0 +1,1 @@
+﻿$("INPUT:not(:hidden):not(:checkbox):not(:button)").setMask();
